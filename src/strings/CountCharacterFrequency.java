@@ -18,5 +18,6 @@ public class CountCharacterFrequency {
 				count++;
 		}
 		System.out.println("The character you have entered has occured "+count+" times");
+		sc.close();
 	}
 }
